@@ -11,7 +11,9 @@ body {
 }
 
 .player {
-  margin-block-start: 75px;
+  margin-inline-start: .75rem;
+  margin-inline-end: .75rem;
+  margin-block-start: 70px;
   position: relative;
 }
 
